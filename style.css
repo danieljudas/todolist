@@ -1,0 +1,27 @@
+body {
+    background-color: lightgrey;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+main {
+    width: 800px;
+    display: flex;
+    align-items: center; /*  */
+    flex-direction: column;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    width: 100%;
+}
+
+li {
+    background-color: lightblue;
+    width: calc(100% - 20px);
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid brown;
+}
