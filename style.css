@@ -26,3 +26,8 @@ li {
     border: 2px solid brown;
     box-sizing: border-box;
 }
+
+.ukonczony {
+    background-color: green;
+    
+}
